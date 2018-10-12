@@ -1,0 +1,9 @@
+
+/* using !important to increase specificity */
+body {
+    background-color: blue !important;
+}
+
+header h1 {
+    color: white !important;
+}
